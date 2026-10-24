@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.muhammadashhar17tech.learnandplay",
+      "sha256_cert_fingerprints": [
+        "B4:39:25:EA:74:6D:40:8B:9E:1A:AC:7E:7A:73:75:B1:35:7F:7E:81:F2:73:89:C8:E1:7A:19:2C:FA:D2:8E:F2"
+      ]
+    }
+  }
+]
